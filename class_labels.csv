@@ -1,0 +1,44 @@
+ClassId;ClassLabel
+0;”Speed Limit 20”
+1;”Speed Limit 30”
+2;”Speed Limit 50”
+3;”Speed Limit 60”
+4;”Speed Limit 70”
+5;”Speed Limit 80”
+6;”End of speed limit 80”
+7;”Speed Limit 100”
+8;”Speed Limit 120”
+9;”No Passing”
+10;”No Passing for vehicles over 3.5t”
+11;”Priority”
+12;”Priority Road”
+13;”Yield”
+14;”Stop”
+15;”Road Closed”
+16;”Vehicles over 3.5t prohibited”
+17;”Do Not Enter”
+18;”General Danger”
+19;”Curve (left)”
+20;”Curve (right)”
+21;”Double Curve. First curve is to the left”
+22;”Rough Road”
+23;”Slippery when wet or dirty”
+24;”Road narrows (right side)”
+25;”Road Work”
+26;”Traffic signals ahead”
+27;”Pedestrians”
+28;”Watch for Children”
+29;”Bicycle Crossing”
+30;”Beware of ice/snow”
+31;”Wild animal crossing”
+32;”End of all restrictions”
+33;”Mandatory Direction of travel. All traffic must turn right”
+34;”Mandatory Direction of travel. All traffic must turn left”
+35;”Mandatory Direction of travel. All traffic must continue straight ahead”
+36;”Mandatory Direction of travel. All traffic must continue straight ahead or turn right”
+37;”Mandatory Direction of travel. All traffic must continue straight ahead or turn left”
+38;”Pass by on right”
+39;”Pass by on left”
+40;”Roundabout”
+41;”End of No Passing Zone”
+42;”End of No Passing Zone for vehicles over 3.5t”
